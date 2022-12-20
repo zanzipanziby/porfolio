@@ -1,0 +1,22 @@
+.skillsWrapper {
+    height: 100vh;
+    background-color: aquamarine;
+}
+.skillsContainer {
+    flex-direction: column;
+    justify-content: start;
+}
+
+.title {
+    background-color: #AFAFAFFF;
+}
+.skills {
+    display: flex;
+   justify-content: space-around;
+    flex-wrap: wrap;
+    border: 1px solid black;
+    width: 100%;
+
+
+
+}

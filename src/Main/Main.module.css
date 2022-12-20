@@ -1,0 +1,14 @@
+.mainBlock {
+    height: 100vh;
+    background-color: #cb93d7;
+}
+.textWrapper {
+    width: 300px;
+    background-color: #595757;
+}
+.photoWrapper {
+    height: 400px;
+    width: 300px;
+    background-color: #595757;
+}
+
