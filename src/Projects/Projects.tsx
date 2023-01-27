@@ -9,7 +9,7 @@ export const Projects = () => {
     return (
         <div className={s.projectsWrapper}>
             <div className={`${sContainer.container} ${s.projectsContainer}`}>
-                <h2 className={s.title}>My Projects</h2>
+                <h2 className={sContainer.title}>My Projects</h2>
                 <div>
 
                 </div>

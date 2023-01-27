@@ -1,5 +1,5 @@
 .mainBlock {
-    height: 100vh;
+    min-height: 100vh;
     background-color: #cb93d7;
 }
 .textWrapper {
@@ -7,6 +7,7 @@
     background-color: #595757;
 }
 .photoWrapper {
+    margin: 10px;
     height: 400px;
     width: 300px;
     background-color: #595757;

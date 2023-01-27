@@ -1,17 +1,13 @@
 .projectsWrapper {
     background-color: #ef9bbd;
 }
-.title {
-    padding: 5px;
-    background-color: #AFAFAFFF;
-}
 .projectsContainer {
     flex-direction: column;
     justify-content: start;
 }
 .projects {
     width: 100%;
-    margin-top: 20px;
+    margin-top: 100px;
     display: flex;
     justify-content: space-around;
     align-items: center;

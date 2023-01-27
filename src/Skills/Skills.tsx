@@ -7,7 +7,7 @@ export const Skills = () => {
     return (
         <div className={s.skillsWrapper}>
             <div className={`${sContainer.container} ${s.skillsContainer}`}>
-                <h2 className={s.title}>My skills</h2>
+                <h2 className={sContainer.title}>My skills</h2>
                 <div className={s.skills}>
                     <Skill
                         title={"Html/Css"}

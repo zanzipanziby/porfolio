@@ -1,0 +1,22 @@
+.container {
+    min-height: 0;
+    flex-direction: column;
+}
+.magicContainer {
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-between;
+    border: 1px solid black;
+    width: 70%;
+    min-width: 250px;
+}
+
+.whatIsThis {
+    background-color: #595757;
+    width: 50px;
+    height: 50px;
+
+}
+.copyright {
+    margin-top: 20px;
+}
