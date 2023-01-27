@@ -14,7 +14,7 @@ export const Footer = () => {
                     <div className={s.whatIsThis}></div>
                 </div>
                 <div className={s.copyright}>
-                    ©2023 Все права защищены
+                    Copyright 2023, Dmitry Markevich
                 </div>
             </div>
         </div>
