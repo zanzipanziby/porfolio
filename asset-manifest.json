@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/porfolio/static/css/main.540e7632.css",
+    "main.js": "/porfolio/static/js/main.658c40b6.js",
+    "static/js/787.1ed0c42c.chunk.js": "/porfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/social-network-app.png": "/porfolio/static/media/social-network-app.18ff4ab8d8a4ea725047.png",
+    "static/media/to-do-list-apps.png": "/porfolio/static/media/to-do-list-apps.f795ae3e51c979fad76e.png",
+    "index.html": "/porfolio/index.html",
+    "main.540e7632.css.map": "/porfolio/static/css/main.540e7632.css.map",
+    "main.658c40b6.js.map": "/porfolio/static/js/main.658c40b6.js.map",
+    "787.1ed0c42c.chunk.js.map": "/porfolio/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.540e7632.css",
+    "static/js/main.658c40b6.js"
+  ]
+}
